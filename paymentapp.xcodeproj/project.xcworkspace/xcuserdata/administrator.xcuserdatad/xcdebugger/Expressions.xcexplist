@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__47-[InviteProviderViewController emailConnection]_block_invoke_2:InviteProviderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentUser.email">
+            </PersistentString>
+            <PersistentString
+               value = "emailTextField.text">
+            </PersistentString>
+            <PersistentString
+               value = "c.response">
+            </PersistentString>
+            <PersistentString
+               value = "c">
+            </PersistentString>
+            <PersistentString
+               value = "&#x314a;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__36-[UserMapViewController viewDidLoad]_block_invoke:UserMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.locationManager.location">
+            </PersistentString>
+            <PersistentString
+               value = "appDelegate.locationManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__34-[SignViewController onNextClick:]_block_invoke:SignViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "phonenumberTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PaymentViewController onMoneyClick:]:PaymentViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GuideViewController handleFBSessionStateChangeWithNotification:]:GuideViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__47-[InviteProviderViewController emailConnection]_block_invoke:InviteProviderViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate locationManager:didUpdateLocations:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UserMapViewController displayProviders]:UserMapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UserMapViewController mapView:didSelectAnnotationView:]:UserMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.thumbIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProviderMainViewController onWithdrawClick:]:ProviderMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[appDelegate getPaymentInfo:ROUTINGNUMBER]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignupProviderViewController whereConnection]:SignupProviderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "whereTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
